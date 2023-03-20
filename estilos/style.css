@@ -3,9 +3,9 @@
 /*
     Paletas de cores
     Preto: #0A0C0D
-    Tom de verde 1: #115959
-    Tom de verde 2: #30F2CF
-    Tom de verde 3: #2EF2BB
+    Tom de roxo 1: #202359
+    Tom de roxo 2: #322073
+    Tom de roxo 3: #42208C
     Tom de branco: #F2F2F2
 */
 
@@ -17,7 +17,7 @@
 }
 
 body, html {
-    background-color: #1d8b8b;
+    background-color: #322073;
     width: 100vw;
     height: 100vh;
 }
@@ -43,7 +43,7 @@ section#login {
 }
 
 section#login > div#imagem {
-    background: #115959 url(../imagem/codigo.jpg) no-repeat;
+    background: #322073 url(../imagem/codigo.jpg) no-repeat;
     background-size: cover;
     background-position: left bottom;
     height: 200px;
